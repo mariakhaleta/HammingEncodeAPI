@@ -1,0 +1,6 @@
+public enum ResultProcess {
+    RESULT_SUCCESS,
+    RESULT_EMPTY_STR,
+    RESULT_CONVERT_ERROR,
+    RESULT_INCORRECT_PLACE
+}
